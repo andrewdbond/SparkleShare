@@ -9,7 +9,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>SparkleShare.Linux</RootNamespace>
     <AssemblyName>SparkleShare.Linux</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <ReleaseVersion>
     </ReleaseVersion>
   </PropertyGroup>
